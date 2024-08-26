@@ -1,5 +1,7 @@
 # Flask-Matomo
 
+**DEPRECATED** Please use [flask-matomo2](https://github.com/spraakbanken/flask-matomo2).
+
 ![](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 [![PyPI](https://img.shields.io/pypi/v/flask-matomo.svg?style=flat-square&colorB=dfb317)](https://pypi.org/project/flask-matomo/)
 [![Docs](https://img.shields.io/badge/docs-readthedocs-red.svg?style=flat-square)](https://flask-matomo.readthedocs.io)
